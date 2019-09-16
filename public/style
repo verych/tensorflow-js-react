@@ -81,16 +81,12 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./src/style/index.scss");
+/******/ 	return __webpack_require__(__webpack_require__.s = 492);
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./src/style/index.scss":
-/*!******************************!*\
-  !*** ./src/style/index.scss ***!
-  \******************************/
-/*! no static exports found */
+/***/ 492:
 /***/ (function(module, exports, __webpack_require__) {
 
 // extracted by mini-css-extract-plugin
