@@ -1,0 +1,40 @@
+body {
+  background-color: #ffffff;
+  color: #eeeeee; }
+
+.page-upload .image-dnd-zone .image-dnd-input-wrapper {
+  width: 95%;
+  border: 2px dashed #eeeeee;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 2rem;
+  font-family: Arial;
+  vertical-align: middle;
+  cursor: pointer;
+  padding: .6rem 0 0 0;
+  box-sizing: border-box; }
+
+.page-upload .image-dnd-zone-highlight .image-dnd-input-wrapper {
+  background-color: #fff0e1; }
+
+.page-upload .image-upload-preview {
+  margin: 1rem auto;
+  display: table; }
+  .page-upload .image-upload-preview .image-upload-preview-item {
+    float: left;
+    position: relative; }
+    .page-upload .image-upload-preview .image-upload-preview-item .image-upload-preview-item-caption {
+      position: absolute;
+      background-color: #254D0D77; }
+
+.header .header-logo {
+  background-image: url(img/logo.png);
+  background-repeat: no-repeat;
+  width: 500px;
+  height: 100px;
+  background-position: center center;
+  margin: 1rem auto;
+  background-size: cover; }
+
+
+/*# sourceMappingURL=style.css.map*/

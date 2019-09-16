@@ -1,0 +1,37 @@
+.page-upload {
+    .image-dnd-zone {
+        .image-dnd-input-wrapper {
+            width: 95%;
+            border: 2px dashed $color-border;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 2rem;
+            font-family: Arial;
+            vertical-align: middle;
+            cursor: pointer;
+            padding: .6rem 0 0 0;
+            box-sizing: border-box;
+        }
+    }
+
+    .image-dnd-zone-highlight {
+        .image-dnd-input-wrapper {
+            background-color: $color-back-drag;
+        }
+    }
+
+    .image-upload-preview {
+        margin: 1rem auto;
+        display: table;
+
+        .image-upload-preview-item {
+            float: left;
+            position: relative;
+
+            .image-upload-preview-item-caption {
+                position: absolute;
+                background-color: $color-gamma-1-50;
+            }
+        }
+    }
+}
