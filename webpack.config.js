@@ -10,8 +10,6 @@ module.exports = {
         path: __dirname + '/public/',
         filename: "[name]" ,
         publicPath: ""
-        //path: path.join(__dirname, './public/js/'),
-        //filename: 'app.js'
     },
     module: {
         rules: [
